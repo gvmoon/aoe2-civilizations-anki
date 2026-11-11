@@ -1,0 +1,280 @@
+Armenians (Type)|Infantry & Naval
+Armenians (Key Civilization Bonuses)|Mule Carts −25% & tech effects +40%; Spearman/Militia upgrades (except MAA) one Age earlier; first Fortified Church gets free Relic; Galley-line & Dromons fire extra projectile
+Armenians (Unique Unit(s))|Composite Bowman (foot archer), Warrior Priest (infantry)
+Armenians (Unique Techs)|Cilician Fleet — Demo Ships +20% blast radius; Galley-line & Dromons +1 range. Fereters — infantry (except Spearmen) +30 HP; Warrior Priests heal +100% faster
+Armenians (Team Bonus)|Infantry +2 LOS
+Aztecs (Type)|Infantry & Monk
+Aztecs (Key Civilization Bonuses)|+50 starting gold; villagers carry +3; military created 15% faster; monks +5 HP per Monastery tech
+Aztecs (Unique Unit(s))|Jaguar Warrior (infantry)
+Aztecs (Unique Techs)|Atlatl — Skirmishers & Slingers +1 attack, +1 range. Garland Wars — infantry +4 attack
+Aztecs (Team Bonus)|Relics +33% gold
+Bengalis (Type)|Elephant & Naval
+Bengalis (Key Civilization Bonuses)|TCs spawn 2 villagers per age-up; cavalry +2 attack vs Skirmishers; elephants −25% bonus damage & conversion-resistant; monks +3/+3 armor; ships regenerate 15 HP/min
+Bengalis (Unique Unit(s))|Ratha (cavalry chariot, melee/ranged switch)
+Bengalis (Unique Techs)|Paiks — Rathas & elephant units attack +20% faster. Mahayana — villagers & monks −10% pop space
+Bengalis (Team Bonus)|Trade units yield +10% food in addition to gold
+Berbers (Type)|Cavalry & Naval
+Berbers (Key Civilization Bonuses)|Villagers 5%/10% faster; cavalry −15%/−20% Castle/Imp; ships +10% speed
+Berbers (Unique Unit(s))|Camel Archer (mounted archer), Genitour (mounted skirmisher)
+Berbers (Unique Techs)|Kasbah — team Castles work +25% faster. Maghrebi Camels — camel units regenerate HP
+Berbers (Team Bonus)|Genitours available at the Archery Range
+Bohemians (Type)|Gunpowder & Monk
+Bohemians (Key Civilization Bonuses)|Mining Camp techs free; Blacksmiths/Universities −100 wood; Spearmen +25% bonus damage; Fervor & Sanctity affect villagers; Chemistry & Hand Cannoneer in Castle Age
+Bohemians (Unique Unit(s))|Hussite Wagon (gunpowder siege)
+Bohemians (Unique Techs)|Hussite Reforms — monks & Monastery techs cost food instead of gold. Wagenburg Tactics — gunpowder units +10% move speed
+Bohemians (Team Bonus)|Markets work +80% faster
+Britons (Type)|Foot archer
+Britons (Key Civilization Bonuses)|TCs −50% wood from Castle Age; foot archers +1/+2 range Castle/Imp; shepherds +25%
+Britons (Unique Unit(s))|Longbowman (foot archer)
+Britons (Unique Techs)|Yeomen — foot archers +1 range. Warwolf — Trebuchets deal splash damage
+Britons (Team Bonus)|Archery Ranges work +10% faster
+Bulgarians (Type)|Infantry & Cavalry
+Bulgarians (Key Civilization Bonuses)|Militia-line upgrades free; TCs −50% stone; Blacksmith & Siege Workshop techs −50% food
+Bulgarians (Unique Unit(s))|Konnik (cavalry; fights on as dismounted infantry)
+Bulgarians (Unique Techs)|Stirrups — cavalry attack 33% faster. Bagains — Militia line +5 melee armor
+Bulgarians (Team Bonus)|Blacksmiths work +80% faster
+Burgundians (Type)|Cavalry
+Burgundians (Key Civilization Bonuses)|Eco techs −40% food & one Age earlier; Stable techs −50%; Cavalier in Castle Age; gunpowder +25% attack
+Burgundians (Unique Unit(s))|Coustillier (cavalry, charge attack)
+Burgundians (Unique Techs)|Burgundian Vineyards — farmers slowly generate gold. Flemish Revolution — all villagers transform into Flemish Militia
+Burgundians (Team Bonus)|Relics also generate food (~20/min)
+Burmese (Type)|Infantry & Elephant
+Burmese (Key Civilization Bonuses)|Free Lumber Camp techs; Battle Elephants +1/+1 armor; infantry +1/+2/+3 attack; Monastery techs −50%
+Burmese (Unique Unit(s))|Arambai (mounted archer)
+Burmese (Unique Techs)|Howdah — Battle Elephants +1/+1 armor. Manipur Cavalry — cavalry & Arambai +6 attack vs buildings
+Burmese (Team Bonus)|Relics visible from game start
+Byzantines (Type)|Defensive
+Byzantines (Key Civilization Bonuses)|Buildings +10%→+40% HP by Age; Camel/Skirmisher/Spearman −25%; Fire Ships & Dromons attack +25% faster; Imperial Age −33%
+Byzantines (Unique Unit(s))|Cataphract (heavy cavalry, anti-infantry)
+Byzantines (Unique Techs)|Greek Fire — Fire Ships & Dromons +1 range. Logistica — Cataphracts deal trample damage
+Byzantines (Team Bonus)|Monks heal +100% faster
+Celts (Type)|Infantry & Siege
+Celts (Key Civilization Bonuses)|Infantry +5%→+20% speed; lumberjacks +15%; siege +25% fire rate; can steal herdables
+Celts (Unique Unit(s))|Woad Raider (fast infantry)
+Celts (Unique Techs)|Stronghold — Castles & towers fire 25% faster. Furor Celtica — siege +40% HP
+Celts (Team Bonus)|Siege Workshops work +20% faster
+Chinese (Type)|Archer & Gunpowder
+Chinese (Key Civilization Bonuses)|Start +3 villagers (−200 food, −50 wood); TCs +10 pop, +7 LOS; techs 5/10/15% cheaper
+Chinese (Unique Unit(s))|Chu Ko Nu (foot archer)
+Chinese (Unique Techs)|Great Wall — walls & towers +30% HP. Rocketry — Chu Ko Nu +2 attack; Scorpions +4 attack
+Chinese (Team Bonus)|Farms +10% food
+Cumans (Type)|Cavalry
+Cumans (Key Civilization Bonuses)|2nd TC in Feudal; mounted units +5/10/15% speed; Ranges/Stables −75 wood; Siege Workshop & Ram in Feudal, Capped Ram in Castle
+Cumans (Unique Unit(s))|Kipchak (multi-shot mounted archer)
+Cumans (Unique Techs)|Cuman Mercenaries — all team members can train 5 free Elite Kipchaks per Castle. Steppe Husbandry — Scout line, Steppe Lancers, Cavalry Archers train +100% faster
+Cumans (Team Bonus)|Palisade Walls +33% HP
+Danes (Type)|Infantry & Siege
+Danes (Key Civilization Bonuses)|Villagers & Fishing Ships +5% food drop-off; loot 25% of destroyed buildings' cost; Barracks/Siege Workshop upgrades −66% gold; Varangian Guards & Longships +10% speed
+Danes (Unique Unit(s))|Jomsviking (infantry, torch-thrower vs buildings/ships); shared: Varangian Guard (infantry), Longship (warship)
+Danes (Unique Techs)|Northmen's Fury — Mangonel-line & Catapult Galleons +1 range; siege & siege warships +40% attack vs buildings. Hamask — infantry deal more damage as they lose HP
+Danes (Team Bonus)|Siege weapons +2 LOS
+Dravidians (Type)|Infantry & Naval
+Dravidians (Key Civilization Bonuses)|+200 wood per age-up; fishermen/Fishing Ships carry +15; Skirmishers & Elephant Archers +25% faster attack; Barracks techs −50%; siege −33% wood
+Dravidians (Unique Unit(s))|Urumi Swordsman (infantry, charged strike)
+Dravidians (Unique Techs)|Medical Corps — elephant units regenerate 30 HP/min. Wootz Steel — infantry & cavalry attacks ignore armor
+Dravidians (Team Bonus)|Docks provide +5 population
+Ethiopians (Type)|Foot archer
+Ethiopians (Key Civilization Bonuses)|+100 food/+100 gold per age-up; foot archers fire +18% faster; free Pikeman
+Ethiopians (Unique Unit(s))|Shotel Warrior (infantry); also has Camel Riders
+Ethiopians (Unique Techs)|Royal Heirs — Shotel Warriors & Camel Riders take −3 damage from mounted units. Torsion Engines — Siege Workshop units get larger blast radius
+Ethiopians (Team Bonus)|Outposts +3 LOS, no stone cost
+Franks (Type)|Cavalry
+Franks (Key Civilization Bonuses)|Free farm upgrades; Castles −15%/−25% cost; mounted +20% HP; foragers +15%; Throwing Axemen now 5 range (6 Elite)
+Franks (Unique Unit(s))|Throwing Axeman (ranged infantry)
+Franks (Unique Techs)|Ordonnance Companies — Mounted Crossbowmen −40% gold (replaces removed Bearded Axe). Chivalry — Stables work +40% faster
+Franks (Team Bonus)|Knights +2 LOS
+Georgians (Type)|Cavalry & Defensive
+Georgians (Key Civilization Bonuses)|Start with Mule Cart; units take −15% damage from higher elevation; mounted units regenerate 2/8/14 HP/min; Fortified Churches +10% villager work rate nearby
+Georgians (Unique Unit(s))|Monaspa (cavalry, stronger in numbers)
+Georgians (Unique Techs)|Aznauri Cavalry — mounted units −20% pop space. Svan Towers — fortifications +2 attack; Watch Tower-line deals pass-through damage
+Georgians (Team Bonus)|Repairing −25% cost
+Goths (Type)|Infantry
+Goths (Key Civilization Bonuses)|Infantry −15%→−30% cost; bonus damage vs buildings; Loom instant; +10 pop cap
+Goths (Unique Unit(s))|Huskarl (anti-archer infantry)
+Goths (Unique Techs)|Anarchy — Huskarls available at Barracks. Perfusion — Barracks work +100% faster
+Goths (Team Bonus)|Barracks work +20% faster
+Gurjaras (Type)|Cavalry & Camel
+Gurjaras (Key Civilization Bonuses)|Start with 2 Forage Bushes; livestock garrisoned in Mills generates food; mounted units +20/30/40% bonus damage
+Gurjaras (Unique Unit(s))|Shrivamsha Rider (light cavalry, projectile dodge), Chakram Thrower (infantry, pass-through)
+Gurjaras (Unique Techs)|Kshatriyas — military units −25% food. Frontier Guards — Camel Riders & Elephant Archers +4 melee armor
+Gurjaras (Team Bonus)|Camels & elephants trained +25% faster
+Hindustanis (Type)|Camel & Gunpowder
+Hindustanis (Key Civilization Bonuses)|Villagers −8%→−23% cheaper; camels attack +20% faster; gunpowder +1/+1 armor
+Hindustanis (Unique Unit(s))|Ghulam (infantry, shields arrows), Imperial Camel Rider (camel)
+Hindustanis (Unique Techs)|Grand Trunk Road — trade & relic gold income +10% faster. Shatagni — Hand Cannoneers +2 range
+Hindustanis (Team Bonus)|Camels & light cavalry +2 attack vs buildings
+Huns (Type)|Cavalry
+Huns (Key Civilization Bonuses)|No houses (−100 wood, max pop from start); mounted archers −10%/−20% Castle/Imp; Trebuchets +35% accuracy vs units
+Huns (Unique Unit(s))|Tarkan (cavalry, anti-building)
+Huns (Unique Techs)|Marauders — Tarkans available at Stables. Atheism — relic/wonder countdown +100 years; Spies & Treason −50% cost
+Huns (Team Bonus)|Stables work +20% faster
+Inca (Type)|Infantry
+Inca (Key Civilization Bonuses)|Military units −15/20/25/30% food; villagers benefit from Blacksmith infantry techs; Houses & Settlements +5 pop; buildings −15% stone; no Mills/Lumber/Mining Camps; no Eagle Warriors
+Inca (Unique Unit(s))|Kamayuk (anti-cavalry infantry); Slinger is now a regional unit (shared)
+Inca (Unique Techs)|Andean Sling — Skirmishers & Slingers lose minimum range. Fabric Shields — Kamayuks, Slingers & Champi Warriors +1/+1 armor
+Inca (Team Bonus)|Start with a free Llama
+Italians (Type)|Foot archer & Navy
+Italians (Key Civilization Bonuses)|Age-ups −15%; foot archers & Condottieri +1/+1 armor; Dock/University techs −25%; gunpowder −20%
+Italians (Unique Unit(s))|Genoese Crossbowman (anti-cavalry foot archer), Condottiero (infantry)
+Italians (Unique Techs)|Pavise — foot archers & Condottieri +1/+1 armor. Silk Road — trade units −50% cost
+Italians (Team Bonus)|Condottieri at the Barracks
+Japanese (Type)|Infantry
+Japanese (Key Civilization Bonuses)|Fishing Ships 2× HP, +2 pierce armor, work faster; drop-offs −50%; infantry attack 33% faster; mounted archers +2 vs archers
+Japanese (Unique Unit(s))|Samurai (infantry, bonus vs unique units)
+Japanese (Unique Techs)|Yasama — Towers fire +3 arrows. Kataparuto — Trebuchets cost −50 wood, pack/unpack faster
+Japanese (Team Bonus)|Galleys +4 LOS
+Jurchens (Type)|Cavalry & Gunpowder
+Jurchens (Key Civilization Bonuses)|Meat doesn't decay; mounted units & Fire Lancers +25% attack speed; Siege Engineers in Castle Age; siege/fortification techs −75% wood, 2× research; −50% friendly fire
+Jurchens (Unique Unit(s))|Iron Pagoda (heavy cavalry), Grenadier (gunpowder infantry)
+Jurchens (Unique Techs)|Thunderclap Bombs — Rocket Carts, Grenadiers & Lou Chuans detonate on death; projectiles cause extra explosions. Fortified Bastions — fortifications & TCs regenerate 500 HP/min
+Jurchens (Team Bonus)|Gunpowder units +2 LOS
+Khitans (Type)|Infantry & Cavalry
+Khitans (Key Civilization Bonuses)|Pastures replace Farms; melee attack upgrade effects doubled; Skirmisher/Spearman/Scout lines train & upgrade +15% faster; Heavy Cavalry Archer in Castle Age −50%
+Khitans (Unique Unit(s))|Liao Dao (infantry, wounds bleed), Mounted Trebuchet (siege cavalry)
+Khitans (Unique Techs)|Ordo Cavalry — cavalry regenerate HP in combat. Lamellar Armor — infantry & Skirmishers reflect 25% melee damage
+Khitans (Team Bonus)|Infantry +2 attack vs ranged soldiers
+Khmer (Type)|Siege & Elephant
+Khmer (Key Civilization Bonuses)|No building prerequisites to age up; Battle Elephants +10% speed; farmers no drop-off; villagers garrison in Houses
+Khmer (Unique Unit(s))|Ballista Elephant (cavalry siege)
+Khmer (Unique Techs)|Tusk Swords — Battle Elephants +3 attack. Double Crossbow — Ballista Elephants & Scorpions fire an extra projectile
+Khmer (Team Bonus)|Scorpions +1 range
+Koreans (Type)|Defensive & Naval
+Koreans (Key Civilization Bonuses)|Stone miners +20%; free archer armor & tower upgrades; archers & infantry −50% wood; warships −20% wood
+Koreans (Unique Unit(s))|War Wagon (mounted archer), Turtle Ship (warship)
+Koreans (Unique Techs)|Eupseong — Watch Towers +2 range. Shinkichon — Mangonel-line +1 range
+Koreans (Team Bonus)|Villagers +3 LOS
+Lithuanians (Type)|Cavalry & Monk
+Lithuanians (Key Civilization Bonuses)|Start +100 food; Spearmen & Skirmishers +10% speed; each garrisoned Relic +1 Knight/Leitis attack (max +4)
+Lithuanians (Unique Unit(s))|Leitis (cavalry, ignores armor)
+Lithuanians (Unique Techs)|Hill Forts — Town Centers +3 range. Tower Shields — Spearmen & Skirmishers +2 pierce armor
+Lithuanians (Team Bonus)|Monasteries work +20% faster
+Magyars (Type)|Cavalry
+Magyars (Key Civilization Bonuses)|Forging/Iron Casting/Blast Furnace free; Scout line −15%; villagers kill wolves in one strike
+Magyars (Unique Unit(s))|Magyar Huszar (light cavalry, anti-siege)
+Magyars (Unique Techs)|Corvinian Army — Magyar Huszars cost no gold. Recurve Bow — mounted archers +1 range, +1 attack
+Magyars (Team Bonus)|Mounted archers trained +25% faster
+Malay (Type)|Infantry & Naval
+Malay (Key Civilization Bonuses)|Age-ups +66% faster; Fish Traps −33% cost, 3× food; Battle Elephants −25%/−35%; free infantry armor upgrades
+Malay (Unique Unit(s))|Karambit Warrior (infantry, half pop)
+Malay (Unique Techs)|Thalassocracy — Docks become Harbors (can attack, train warships). Forced Levy — Militia line costs food instead of gold
+Malay (Team Bonus)|Docks +6 LOS
+Malians (Type)|Infantry
+Malians (Key Civilization Bonuses)|Buildings −15% wood; Barracks units +1/+2/+3 pierce armor by Age; villagers drop off +10% gold
+Malians (Unique Unit(s))|Gbeto (ranged infantry)
+Malians (Unique Techs)|Tigui — Town Centers fire arrows. Farimba — cavalry +5 attack
+Malians (Team Bonus)|Universities work +80% faster
+Mapuche (Type)|Cavalry & counter-units
+Mapuche (Key Civilization Bonuses)|Foragers +25% food; Settlements train Spearman/Skirmisher lines; infantry/Slingers/Skirmishers +5/10/15 HP; mounted units generate gold from kills; enemy Castles revealed
+Mapuche (Unique Unit(s))|Kona (cavalry), Bolas Rider (ranged cavalry, slows)
+Mapuche (Unique Techs)|Butalmapu — team Castle unique units & Bolas Riders −15% cost. Malón — Bolas Riders, Slingers & Skirmishers deal pass-through damage
+Mapuche (Team Bonus)|Spearmen & Skirmishers +2 LOS
+Maya (Type)|Foot archer
+Maya (Key Civilization Bonuses)|Start with Eagle Scout, +1 villager (−50 food); resources last +15% longer; foot archers −10/20/30%
+Maya (Unique Unit(s))|Plumed Archer (fast, tough foot archer)
+Maya (Unique Techs)|Hul'che Javelineers — Skirmishers fire an extra projectile. El Dorado — Eagle Warriors +40 HP
+Maya (Team Bonus)|Walls & gates 50% cheaper
+Mongols (Type)|Mounted archer
+Mongols (Key Civilization Bonuses)|Cavalry archers fire +25% faster; Scout line & Steppe Lancers +20/30% HP; hunters +40%
+Mongols (Unique Unit(s))|Mangudai (mounted archer, anti-siege)
+Mongols (Unique Techs)|Nomads — destroyed Houses don't reduce pop. Drill — siege moves +50% faster
+Mongols (Team Bonus)|Scout line +2 LOS
+Muisca (Type)|Archers & Monks
+Muisca (Key Civilization Bonuses)|Age-ups −50% gold; Settlements −33% & heal nearby units; Archery Range units +1/2/3 melee armor; monks regain faith 100% faster; free Caravan & Guilds
+Muisca (Unique Unit(s))|Guecha Warrior (foot skirmisher), Temple Guard (infantry)
+Muisca (Unique Techs)|Huaracas — Slingers +1 range, +50% train speed. Herbalism — Archer line & Champi Warriors +15% move speed
+Muisca (Team Bonus)|Natural gold sources last +15% longer
+Persians (Type)|Cavalry
+Persians (Key Civilization Bonuses)|Start +50 food/wood; TCs & Docks 2× HP, work +5/10/15/20% faster; Parthian Tactics in Castle Age; can build Caravanserais in Imperial
+Persians (Unique Unit(s))|War Elephant (cavalry elephant)
+Persians (Unique Techs)|Citadels — Castles +4 attack (+3 vs rams & infantry) and take −25% bonus damage. Kamandaran — Archer-line gold cost replaced by extra wood
+Persians (Team Bonus)|Knight-line +2 attack vs ranged soldiers
+Poles (Type)|Cavalry
+Poles (Key Civilization Bonuses)|Villagers regenerate; stone miners generate +33% gold; Bloodlines & Scout-line upgrades −50% food
+Poles (Unique Unit(s))|Obuch (infantry, strips armor), Winged Hussar (light cavalry)
+Poles (Unique Techs)|Szlachta Privileges — Knights −60% gold. Lechitic Legacy — Scout line deals trample damage
+Poles (Team Bonus)|Scout line +1 attack vs archers
+Portuguese (Type)|Naval & Gunpowder
+Portuguese (Key Civilization Bonuses)|All units −20% gold; ships +10% HP; foragers generate wood; Feitoria building; no Demolition Ships
+Portuguese (Unique Unit(s))|Organ Gun (gunpowder siege), Caravel (warship)
+Portuguese (Unique Techs)|Circumnavigation — entire map revealed; ships train +33% faster (replaces removed Carrack). Arquebus — gunpowder projectiles track moving targets
+Portuguese (Team Bonus)|All technologies researched +25% faster
+Romans (Type)|Infantry
+Romans (Key Civilization Bonuses)|Villagers +5% work speed; Galley-line & Dromons +1/+1 armor; infantry get double effect from armor upgrades; Scorpions −50% gold
+Romans (Unique Unit(s))|Legionary (infantry)
+Romans (Unique Techs)|Comitatenses — Militia line gains a charge attack and trains faster. Ballistas — Scorpions +2 attack
+Romans (Team Bonus)|Scorpions minimum range removed
+Saracens (Type)|Camel & Naval
+Saracens (Key Civilization Bonuses)|Market fee only 5%; Markets −100 wood; camels +25% HP; Galley-line attacks +25% faster; Transports +100% HP, +20 carry
+Saracens (Unique Unit(s))|Mameluke (camel cavalry, ranged attack)
+Saracens (Unique Techs)|Bimaristan — monks passively heal multiple nearby units. Counterweights — Trebuchets & Mangonel-line +15% attack
+Saracens (Team Bonus)|Foot archers & Skirmishers +2 attack vs buildings
+Saxons (Type)|Infantry & Defensive
+Saxons (Key Civilization Bonuses)|Mills/Lumber/Mining Camps give +35 food +10 stone when built; foot soldiers −5% per TC or Castle owned (max −20%); Towers & Castles fire +100% base arrows from Castle Age; Longships & Catapult Galleons +20% HP
+Saxons (Unique Unit(s))|Hearth Troop (heavy infantry, javelin opener); shared: Varangian Guard, Longship
+Saxons (Unique Techs)|Shield Wall — infantry gain armor when massed. Clerical Recruitment — monks +1 conversion range, +33% train speed
+Saxons (Team Bonus)|Repairers work +25% faster
+Shu (Type)|Archer & Siege
+Shu (Key Civilization Bonuses)|Lumberjacks generate food in addition to wood; Archery Range/Blacksmith ranged techs −25%; siege moves +10/15% faster
+Shu (Unique Unit(s))|White Feather Guard (infantry, slows on hit), War Chariot (siege, repeating crossbow)
+Shu (Unique Techs)|Coiled Serpent Array — Spearmen & White Feather Guards gain HP when near each other. Bolt Magazine — Archer line, War Chariots & Lou Chuans fire extra projectiles
+Shu (Team Bonus)|Foot archers (except Skirmishers) +2 LOS
+Sicilians (Type)|Infantry & Cavalry
+Sicilians (Key Civilization Bonuses)|Start +100 stone; fortifications build 50%/TCs 100% faster; land units −40% bonus damage; farm upgrades +125% food
+Sicilians (Unique Unit(s))|Serjeant (infantry; builds Donjons)
+Sicilians (Unique Techs)|First Crusade — Town Centers spawn Serjeants; units resist conversion. Hauberk — Knights +1/+2 armor
+Sicilians (Team Bonus)|Transport Ships +5 LOS, −50% cost
+Slavs (Type)|Infantry & Siege
+Slavs (Key Civilization Bonuses)|Farmers +15%; Arson & Gambesons free; siege −15%; monks +20% speed
+Slavs (Unique Unit(s))|Boyar (heavy cavalry)
+Slavs (Unique Techs)|Orthodoxy — monks +3/+3 armor. Druzhina — infantry deal trample damage
+Slavs (Team Bonus)|Military buildings provide +5 pop
+Spanish (Type)|Gunpowder & Monk
+Spanish (Key Civilization Bonuses)|Builders +30%; Blacksmith upgrades cost no gold; gunpowder fires +18% faster; +20 gold per tech researched; Missionaries can carry Relics
+Spanish (Unique Unit(s))|Conquistador (gunpowder cavalry), Missionary (mounted monk)
+Spanish (Unique Techs)|Inquisition — monks convert faster. Supremacy — villagers gain +6 attack and combat stats
+Spanish (Team Bonus)|Trade units +25% gold
+Tatars (Type)|Mounted archer
+Tatars (Key Civilization Bonuses)|Herdables +50% food; +50% damage from higher elevation; free Parthian Tactics & Thumb Ring; 2 sheep per new TC from Castle Age
+Tatars (Unique Unit(s))|Keshik (cavalry, generates gold when fighting), Flaming Camel (petard-type)
+Tatars (Unique Techs)|Silk Armor — mounted archers +1/+1 armor. Timurid Siegecraft — Trebuchets bonus vs buildings; unlocks Flaming Camels at the Siege Workshop
+Tatars (Team Bonus)|Mounted archers +2 LOS
+Teutons (Type)|Infantry
+Teutons (Key Civilization Bonuses)|Monks 2× healing range; Towers garrison 2×; free Murder Holes & Herbal Medicine; farms −40%; infantry & mounted units +1/+2 melee armor Castle/Imp
+Teutons (Unique Unit(s))|Teutonic Knight (heavy infantry)
+Teutons (Unique Techs)|Ironclad — siege +4 melee armor. Crenellations — Castles +3 range; garrisoned infantry fire arrows
+Teutons (Team Bonus)|Units & buildings resist conversion
+Tupi (Type)|Archers & Infantry
+Tupi (Key Civilization Bonuses)|Start +25 of each resource; villagers garrison in Settlements; fallen units refund 15% of cost; Archery Range & Barracks techs −50% food
+Tupi (Unique Unit(s))|Blackwood Archer (foot archer, trained in pairs, half pop), Ibirapema Warrior (infantry, sweep AoE)
+Tupi (Unique Techs)|Curare — foot archers & fortifications deal poison damage. Caciques — Champi Warriors & Slingers +25% attack speed
+Tupi (Team Bonus)|Towers & Castles provide +10 pop
+Turks (Type)|Gunpowder
+Turks (Key Civilization Bonuses)|Gunpowder +25% HP; Chemistry free; gunpowder techs −50%; gold miners +25%; free Light Cavalry/Hussar upgrades
+Turks (Unique Unit(s))|Janissary (gunpowder infantry)
+Turks (Unique Techs)|Sipahi — mounted archers +20 HP. Artillery — Bombard Cannons, Bombard Towers & Cannons +2 range
+Turks (Team Bonus)|Gunpowder units created +25% faster
+Varangians (Type)|Cavalry & Naval
+Varangians (Key Civilization Bonuses)|Shepherding, fishing & hunting also generate gold; Bloodlines & Caravan +50% effect; Varangian Guards +25% attack speed & +50% gold; Longships & Catapult Galleons +15% attack speed
+Varangians (Unique Unit(s))|Jarl (cavalry, axe-thrower, anti-infantry); shared: Varangian Guard, Longship, Mounted Crossbowman
+Varangians (Unique Techs)|Gothikon — Varangian Guards periodically throw axes. Vendel Legacy — Knight-line deals trample damage
+Varangians (Team Bonus)|Knight-line +1 attack vs infantry
+Vietnamese (Type)|Archer
+Vietnamese (Key Civilization Bonuses)|Foot archers & Skirmishers +20% HP; enemy starting TCs revealed; Conscription free; eco techs cost no wood, research 2× faster
+Vietnamese (Unique Unit(s))|Rattan Archer (anti-archer foot archer)
+Vietnamese (Unique Techs)|Chatras — Battle Elephants +60 HP. Paper Money — lumberjacks slowly generate gold
+Vietnamese (Team Bonus)|Imperial Skirmisher upgrade available
+Vikings (Type)|Infantry & Naval
+Vikings (Key Civilization Bonuses)|Free Wheelbarrow & Hand Cart; warships −10/15/20%; infantry +20% HP; gained Varangian Guards, Mounted Crossbowmen & Longships; lost Cannon Galleons
+Vikings (Unique Unit(s))|Berserker (regenerating infantry), Longship (warship, now shared regional)
+Vikings (Unique Techs)|Berserkergang — Berserks regenerate much faster. Chieftains — infantry +4 attack vs cavalry (gold-on-kill mechanic removed)
+Vikings (Team Bonus)|Docks −15% cost
+Wei (Type)|Cavalry
+Wei (Key Civilization Bonuses)|Free villager per economic tech researched; Hei Guang Cavalry & Xianbei Raider +20/30% HP Castle/Imp; Traction Trebuchets & Lou Chuans −25%
+Wei (Unique Unit(s))|Tiger Cavalry (cavalry, levels up on kills), Xianbei Raider (multi-arrow mounted archer)
+Wei (Unique Techs)|Ming Guang Armor — mounted units +4 melee armor. Tuntian — soldiers passively generate food
+Wei (Team Bonus)|Cavalry +2 attack vs siege weapons
+Wu (Type)|Infantry & Naval
+Wu (Key Civilization Bonuses)|Military buildings & Docks provide +55 food; infantry regenerate 10/15/30 HP/min; Jian Swordsmen & Hei Guang +2 attack in Imperial; Careening & Dry Dock free
+Wu (Unique Unit(s))|Fire Archer (foot archer, fire damage), Jian Swordsman (heavy shield infantry)
+Wu (Unique Techs)|Sitting Tiger — Traction Trebuchets & Lou Chuan trebuchet weapons fire extra projectiles. Red Cliffs Tactics — Demolition Ships & Fire Archers deal fire damage to ships & buildings
+Wu (Team Bonus)|Houses built +100% faster
