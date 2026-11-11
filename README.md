@@ -39,7 +39,7 @@ Download the latest `.apkg` from **Releases** → open it in Anki. Done.
 
 ## Tags
 
-`aoc2` `age-of-empires-2` `aoed2` `strategy` `civilizations` `unique-units` `unique-techs` `team-bonus` `civ-bonuses` `gaming` `flashcards`
+`aoe2` `age-of-empires-2` `aoed2` `strategy` `civilizations` `unique-units` `unique-techs` `team-bonus` `civ-bonuses` `gaming` `flashcards`
 
 ## License
 
