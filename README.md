@@ -17,13 +17,13 @@ Flash cards for memorizing every civilization in **Age of Empires 2: Definitive 
 ## Contents
 
 - Armenians · Aztecs · Bengalis · Berbers · Bohemians · Britons · Bulgarians
-- Burgundians · Burmese · Byzantines · Celts · Chinese · Cumans · Dravidians
+- Burgundians · Burmese · Byzantines · Celts · Chinese · Cumans · Danes · Dravidians
 - Ethiopians · Franks · Georgians · Goths · Gurjaras · Hindustanis · Huns
 - Inca · Italians · Japanese · Jurchens · Khitans · Khmer · Koreans
 - Lithuanians · Magyars · Malay · Maliens · Mapuche · Maya · Mongols
-- Muisca · Persians · Poles · Portuguese · Romans · Saracens · Shu
-- Sicilians · Slavs · Spanish · Tatars · Teutons · Tupi · Turks
-- Vietnamese · Vikings · Wei · Wu
+- Muisca · Persians · Poles · Portuguese · Romans · Saracens · Saxons
+- Shu · Sicilians · Slavs · Spanish · Tatars · Teutons · Tupi · Turks
+- Varangians · Vietnamese · Vikings · Wei · Wu
 
 ## Import
 
