@@ -45,5 +45,3 @@ Download the latest `.apkg` from **Releases** → open it in Anki. Done.
 
 Content is a factual summary of game mechanics from Age of Empires 2: DE.
 Flash card format and organization are original.
-
-MIT License — see [LICENSE](LICENSE) for details.
